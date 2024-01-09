@@ -1,0 +1,17 @@
+{
+  "name": "ast-consulting-assignment",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "Temperature.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-schedule": "^2.1.1",
+    "node-telegram-bot-api": "^0.61.0",
+    "requests": "^0.3.0",
+    "telegraf": "^4.11.2"
+  }
+}
